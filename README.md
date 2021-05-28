@@ -9,7 +9,7 @@ Follow up actions will value/ devalue the token based on actions and claims. All
 
 Protection and Regeneration claims can take place towards any given Earth Cell. Once the claims are validated with Proof of Existence (PoE) and/or Proof of Action (PoA) the Proof of Protection (PoP) or Proof of Regeneration (PoR) will be achieved, which will allow for the claim to be rewarded by tokens, linked to those NFT's.
 
-License
+## License
 Copyright (C) 2021 Libre.Earth
 
 
